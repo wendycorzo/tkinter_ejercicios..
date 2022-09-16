@@ -6,4 +6,10 @@
 
 ![ventana principal y frame entrada](ventanaprincipal.png "ventana principal y frame entrada")
 
-## frame operaciones
+## frame operaciones (botones)
+
+![frame operaciones](frameoperaciones.png "frame operaciones realizado")
+
+## frame resultados
+
+![frame resultados](frameresultados.png "frame resultados realizado")
