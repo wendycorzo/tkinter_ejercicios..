@@ -12,4 +12,4 @@
 
 ## frame resultados
 
-![frame resultados](frameresultados.png "frame resultados realizado")
+![frame resultados](frameresultados.png "frame operaciones realizado")
